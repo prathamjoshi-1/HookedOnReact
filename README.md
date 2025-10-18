@@ -103,35 +103,35 @@ npm run dev
 
 ## 🧩 Folder Structure
 
-Hooked-on-React/
+📁 Hooked-on-React/
 │
-├── 📁 Projects/
-│   ├── 🎣 UseState/                 → Basic state management examples  
-│   ├── ⚙️ UseEffect/                → Side effects, API calls, lifecycle logic  
-│   ├── 🧭 UseRef/                   → References & DOM manipulation  
-│   ├── 🔀 ConditionalRendering/     → Dynamic UI rendering examples  
-│   ├── 🧭 ReactRouter/              → Routing and navigation setup  
-│   ├── 🌐 UseContext/               → Global state management with Context API  
-│   ├── 🧮 UseMemo/                  → Performance optimization via memoization  
-│   ├── 🔁 UseCallback/              → Function memoization & callback handling  
-│   └── 🧰 Redux/                    → State management using Redux  
+├── 📂 Projects/
+│    🎣 UseState/ — Basic state management examples
+│    ⚙️ UseEffect/ — Side effects, API calls, lifecycle logic
+│    🧭 UseRef/ — References & DOM manipulation
+│    🔀 ConditionalRendering/ — Dynamic UI rendering examples
+│    🧭 ReactRouter/ — Routing and navigation setup
+│    🌐 UseContext/ — Global state management with Context API
+│    🧮 UseMemo/ — Performance optimization via memoization
+│    🔁 UseCallback/ — Function memoization & callback handling
+│    🧰 Redux/ — State management using Redux
 │
 ├── 🗂️ public/
-│   ├── 🧩 favicon.ico  
-│   └── 🪞 index.html  
+│    🧩 favicon.ico
+│    🪞 index.html
 │
 ├── 💻 src/
-│   ├── ⚛️ App.jsx  
-│   ├── 🚀 main.jsx  
-│   ├── 🎨 styles/  
-│   └── 🖼️ assets/  
+│    ⚛️ App.jsx
+│    🚀 main.jsx
+│    🎨 styles/
+│    🖼️ assets/
 │
-├── 🛑 .gitignore  
-├── 🧹 eslint.config.js  
-├── 🌍 index.html  
-├── 📦 package.json  
-├── 🔒 package-lock.json  
-├── ⚡ vite.config.js  
+├── 🛑 .gitignore
+├── 🧹 eslint.config.js
+├── 🌍 index.html
+├── 📦 package.json
+├── 🔒 package-lock.json
+├── ⚡ vite.config.js
 └── 📘 README.md
 
 ---
