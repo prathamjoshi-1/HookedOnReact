@@ -15,7 +15,7 @@ Whether you're a beginner just getting started or an experienced React developer
 
 ---
 
-🌟 Key Features
+## 🌟 Key Features
 
 ✨ Interactive Examples – Hands-on code snippets that make learning easy and fun.
 🧩 Real-World Demos – Understand where and how each hook can be applied.
@@ -27,7 +27,7 @@ Whether you're a beginner just getting started or an experienced React developer
 
 ---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 Technology	Description
 
@@ -42,9 +42,9 @@ Technology	Description
 
 ---
 
-📚 Hooks Covered So Far
+## 📚 Hooks Covered So Far
 
-✅ Basic Hooks:
+## ✅ Basic Hooks:
 
 useState
 
@@ -53,7 +53,7 @@ useEffect
 useContext
 
 
-⚙️ Advanced Hooks:
+## ⚙️ Advanced Hooks:
 
 useReducer
 
@@ -64,7 +64,7 @@ useMemo
 useRef
 
 
-🛠️ Custom Hooks:
+## 🛠️ Custom Hooks:
 
 useLocalStorage
 
@@ -75,12 +75,12 @@ useFetch
 useDarkMode
 
 
-💎 More coming soon… Stay tuned! 🚧
+## 💎 More coming soon… Stay tuned! 🚧
 
 
 ---
 
-💻 Installation & Setup
+## 💻 Installation & Setup
 
 Follow these simple steps to get started:
 
@@ -101,7 +101,7 @@ npm run dev
 
 ---
 
-🧩 Folder Structure
+## 🧩 Folder Structure
 
 Hooked-on-React/
 │
@@ -136,7 +136,7 @@ Hooked-on-React/
 
 ---
 
-🎯 Learning Goals
+## 🎯 Learning Goals
 
 🚀 Strengthen your foundation in React Hooks
 🧠 Learn how to build efficient, reusable components
@@ -147,7 +147,7 @@ Hooked-on-React/
 
 ---
 
-🧑‍💻 Contributing
+## 🧑‍💻 Contributing
 
 Contributions are highly encouraged! ❤️
 
@@ -172,7 +172,7 @@ If you have an idea, found a bug, or want to improve documentation:
 
 ---
 
-📸 Sneak Peek
+## 📸 Sneak Peek
 
 > 🎥 Coming soon: Interactive demos, animations, and video tutorials!
 
@@ -181,7 +181,7 @@ If you have an idea, found a bug, or want to improve documentation:
 
 ---
 
-🌍 Connect With Me
+## 🌍 Connect With Me
 
 👨‍💻 Developer: Pratham Joshi
 💌 Email: mr.prathamjoshi1@gmail.com
@@ -190,14 +190,14 @@ If you have an idea, found a bug, or want to improve documentation:
 
 ---
 
-🏆 Support & Star
+## 🏆 Support & Star
 
 If you found this project helpful, please ⭐ star this repo — it helps others discover it! 🌟
 And don’t forget to share it with your React buddies! 🤝
 
 ---
 
-💬 Final Note
+## 💬 Final Note
 
 > “React Hooks are not just features — they’re a mindset.” 💭
 Keep experimenting, keep building, and stay Hooked on React! ⚛️🎣🔥
