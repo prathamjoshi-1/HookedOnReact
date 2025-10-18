@@ -84,16 +84,16 @@ useDarkMode
 
 Follow these simple steps to get started:
 
-# Clone this repository
-git clone https://github.com/yourusername/hooked-on-react.git
+## Clone this repository
+git clone https://github.com/prathamjoshi-1/hookedOnReact.git
 
-# Navigate into the folder
+## Navigate into the folder
 cd hooked-on-react
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Start the development server
+## Start the development server
 npm run dev
 
 🌐 Your app will be running on http://localhost:5173/ 🎉
