@@ -1,4 +1,4 @@
-ghjhgdvygfggbjgujhhgygygggg# ⚛️ Hooked on React 🎣💻
+hghjhgdvygfggbjgujhhgygygggg# ⚛️ Hooked on React 🎣💻
 
 ## 🚀 Master the Power of React Hooks — One Hook at a Time!
 
